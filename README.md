@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Enterprise Resource Planning App**
+ 🔭 II’m currently working on **Enterprise Resource Planning App**
  
  🌱 I’m currently learning **React Native Expo, AWS Cloud computing**
 
